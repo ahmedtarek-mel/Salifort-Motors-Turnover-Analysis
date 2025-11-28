@@ -15,7 +15,7 @@
 ---
 
 <p align="center">
-  <img src="images/feature_importance.png" width="80%">
+  <img src="images/banner.png" width="80%">
 </p>
 
 ---
@@ -59,27 +59,28 @@ The Random Forest model demonstrates **excellent predictive capability** and is 
 
 ## 📁 Project Structure
 
+```bash
 Salifort-Motors-Turnover-Analysis/
 │
 ├── data/
-│ └── HR_comma_sep.csv
+│   └── HR_comma_sep.csv
 │
 ├── notebooks/
-│ └── salifort_turnover_analysis.ipynb
+│   └── salifort_turnover_analysis.ipynb
 │
 ├── reports/
-│ ├── Executive_Summary_Salifort_Motors.pdf
-│ ├── PACE_Strategy_Document_Salifort_Motors.pdf
+│   ├── Executive_Summary_Salifort_Motors.pdf
+│   └── PACE_Strategy_Document_Salifort_Motors.pdf
 │
 ├── models/
-│ ├── random_forest_model.pkl
-│ └── random_forest_model.joblib
+│   ├── random_forest_model.pkl
+│   └── random_forest_model.joblib
 │
 ├── images/
-│ ├── feature_importance.png
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
-│ └── satisfaction_plot.png
+│   ├── feature_importance.png
+│   ├── confusion_matrix.png
+│   ├── roc_curve.png
+│   └── satisfaction_plot.png
 │
 ├── requirements.txt
 └── README.md
@@ -109,17 +110,22 @@ These documents are available in the **/reports** folder.
 
 ## 🧩 How to Run the Project
 
+Follow the steps below to set up and run the project on your machine:
+
 ```bash
-# Clone this repository
+# 1️⃣ Clone this repository
 git clone https://github.com/ahmedtarek-mel/Salifort-Motors-Turnover-Analysis.git
 
-# Install dependencies
+# 2️⃣ Navigate into the project folder
+cd Salifort-Motors-Turnover-Analysis
+
+# 3️⃣ Install all dependencies
 pip install -r requirements.txt
 
-# Run the notebook
+# 4️⃣ Launch Jupyter Notebook
 jupyter notebook
-🌟 Feature Importance Visualization
-<p align="center"> <img src="images/feature_importance.png" width="70%"> </p>
+
+
 📬 Contact
 
 Ahmed Tarek
