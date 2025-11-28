@@ -78,7 +78,7 @@ Salifort-Motors-Turnover-Analysis/
 │
 ├── requirements.txt
 └── README.md
-
+```
 ---
 
 ## 🧠 Tech Stack
@@ -118,7 +118,7 @@ pip install -r requirements.txt
 
 # 4️⃣ Launch Jupyter Notebook
 jupyter notebook
-
+```
 
 📬 Contact
 
