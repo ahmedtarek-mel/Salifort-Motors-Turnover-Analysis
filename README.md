@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/salifort_banner.png" width="100%">
+  <img src="images/banner.png" width="80%">
 </p>
 
 <img src="https://img.shields.io/badge/Python-3.10-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -12,13 +12,7 @@
 
 # 🏭 Salifort Motors – Employee Turnover Prediction  
 ### HR Analytics • Machine Learning • Random Forest • Python  
----
 
-<p align="center">
-  <img src="images/banner.png" width="80%">
-</p>
-
----
 
 ## 📌 Project Overview
 
